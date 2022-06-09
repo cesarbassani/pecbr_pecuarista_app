@@ -40,6 +40,17 @@ dependencies:
   validatorless: ^1.2.1
   fl_chart: ^0.51.0
 
+  firebase_core: ^1.17.1
+  firebase_auth: ^3.3.19
+
+  bloc: ^8.0.3
+  flutter_bloc: ^8.0.1
+  equatable: ^2.0.3
+
+  isar: 2.5.0
+  isar_flutter_libs: 2.5.0
+  path_provider: ^2.0.11
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
@@ -50,6 +61,8 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
+  isar_generator: 2.5.0
+  build_runner: ^2.1.11
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
